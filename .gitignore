@@ -1,0 +1,11 @@
+index.php
+nbproject/private/private.properties
+nbproject/private/private.xml
+nbproject/project.properties
+nbproject/project.xml
+nbproject/private/config.properties
+
+/vendor/
+/tests/conbs.php
+/tests/test.php
+tests/test.php

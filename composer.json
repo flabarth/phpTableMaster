@@ -1,0 +1,21 @@
+{
+    "name": "flabarth/php-table-master",
+    "description": "PHP library to automate the dynamic creation of HTML tables.",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Flavo Barth",
+            "email": "flavo.barth@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php" : ">=7.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "phpTableMaster\\" : "src/phpTableMaster/"
+        }
+    }
+}
